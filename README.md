@@ -163,6 +163,15 @@ ___
 <img src="TestImage.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 
+___
+- **Footnotes**
+
+> 각주는 핵심 Markdown 사양의 일부가 아니지만 GFM에서 지원
+> '^'기호 사용
+
+Here is a simple footnote[^1].
+
+
 
 
 
