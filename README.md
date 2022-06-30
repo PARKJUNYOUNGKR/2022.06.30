@@ -52,7 +52,7 @@
       + 5     //네모
         + 6     //네모  
 ___
-4. 들여쓰기
+- **들여쓰기**
 
 2022/06/21(화) 누리호 발사 성공
 
@@ -68,7 +68,100 @@ ___
 2022/06/21(화) 누리호 발사 성공
 세계에서 7번째 우주 강국
 누리호 성공 축하!!!!
+
+___
+- **Code
+
+<pre>
+<code>
   
+class Car {
+private String modelName;
+private int modelYear;
+private String color;
+private int maxSpeed;
+private int currentSpeed;
+
+Car(String modelName, int modelYear, String color, int maxSpeed) {
+this.modelName = modelName;
+this.modelYear = modelYear;
+this.color = color;
+this.maxSpeed = maxSpeed;
+this.currentSpeed = 0;
+}
+}
+  
+</code>
+</pre>
+
+```
+public class add{
+  public static void main(String args[]){
+  
+  int add, a, b;
+  a = 10;
+  b = 20;
+  add = a + b;
+  
+  System.out.print("add 의 값은 a+b의 값이고 그 합은 : ", add);
+  
+}
+}
+}
+
+[Google]<www.google.com> //안에서는 안된다.
+```
+___
+- **링크**
+
+
+> 자동 링크
+[Google]<www.google.com> //밖에서는 가능
+
+
+
+> 외부 링크
+[Title](link)   
+// examle   
+[Let's go google](https://www.google.com)
+[Let's go naver](https://www.naver..com)
+
+
+
+
+___
+- **강조하는 방법**
+
+*강조*    
+_강조_    
+**두껍게**   
+__두껍게__   
+**_두껍고 강조_**    
+
+~~물결표시~~
+
+___
+- **이미지 넣기**
+
+![alt text](image url "image Title")
+
+// examle 1
+![Street](TestImage.jpg "Oxford")
+
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
+
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+<img src="TestImage.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="TestImage.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 
 
 
