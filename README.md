@@ -154,15 +154,13 @@ ___
 
 ![Street](https://youtu.be/HaFjSH_pPaY "SONG")
 
-
+![Street](https://search.pstatic.net/sunny/?src=https%3A%2F%2Fw.namu.la%2Fs%2F858ae6c291b8aa496af97476a8237ee3f5e1753a17c01255791ab63a1d46ba03ee2b3c6dfe551e81cfb1fc89a4915b7e7ce855b7ad976881d2495cec4131075e4d03dda57e7cb30a3ec1b2b07ed4d86e1b84a11144c6abc9b996ef2ab70d6739&type=ff264_180 "렌고쿠")
+- 사진참조 나무위키
 
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-
-<img src="TestImage.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="TestImage.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 
 ___
