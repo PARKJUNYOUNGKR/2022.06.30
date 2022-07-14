@@ -169,7 +169,7 @@ ___
 > 각주는 핵심 Markdown 사양의 일부가 아니지만 GFM에서 지원
 > '^'기호 사용
 
-Here is a simple footnote[^1].
+Here is a simple footnote[^1]..
 
 
 
